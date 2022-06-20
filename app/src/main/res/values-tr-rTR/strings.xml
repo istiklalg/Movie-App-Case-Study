@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Template strings  -->
+    <string name="app_name">Filmler Çalışması</string>
+    <string name="movie_name">%1$s (%2$s)</string>
+    <string name="movie_poster">film afişi (%s)</string>
+    <string name="imdb_symbol">IMDB</string>
+    <string name="rate_symbol">yıldız</string>
+</resources>

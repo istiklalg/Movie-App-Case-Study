@@ -1,0 +1,8 @@
+<resources>
+    <!--  Template strings  -->
+    <string name="app_name">Movies Challenge</string>
+    <string name="movie_name">%1$s (%2$s)</string>
+    <string name="movie_poster">movie poster (%s)</string>
+    <string name="imdb_symbol">IMDB</string>
+    <string name="rate_symbol">star</string>
+</resources>
